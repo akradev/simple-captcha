@@ -1,5 +1,4 @@
-# encoding: utf-8
-require 'rails'
+# require 'rails'
 require 'simple_captcha'
 
 module SimpleCaptcha
